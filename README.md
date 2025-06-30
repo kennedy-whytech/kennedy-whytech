@@ -2,13 +2,11 @@
 
 ## My Dev Activity [Interpreted by AI] - Disclaimer: it can be really hilarious
 
-- 🚀 Implemented secure prompt grouping and aligned timezone in charts
-- 🛠 Enhanced prompt style and integrated target-repo updates in GH Actions
-- 📦 Leveraged venv for environment setup and optimized chart generation
-- 🌟 Introduced runner failure alert and simulated pod termination behavior
-- 💡 Upgraded tools, controllers, and listeners with enhanced features
-- 🤖 Automated workflows and deployment processes for efficiency
-- 📈 Enhanced metrics tracking and service monitoring in Kubernetes environment
+- **Deployment:** Upgraded tools, controllers, and listeners with enhanced features 🚀
+- **Enhancements:** Fixed prompts and charts time zone issues, added new features to prompts and GitHub Actions
+- **Infrastructure:** Updated environment tools and Kubernetes configurations
+- **Automation:** Improved CI workflows, synchronized scripts, and added deployment automation
+- **Testing:** Enhanced testing scenarios, added GPU node pool, and updated pod scheduling strategies
 
 ## 📊 Visualizations
 
@@ -30,6 +28,6 @@
 
 🚀 Thanks for reading! Connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-yau).
 ---
-*Generated on 2025-06-29 20:10 EDT by DevFolio GitHub Action*  
+*Generated on 2025-06-29 21:21 EDT by DevFolio GitHub Action*  
 *Analyzing commits from 2025-05-30 to 2025-06-29 (EDT)*
 ---
