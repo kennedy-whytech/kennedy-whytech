@@ -2,10 +2,11 @@
 
 ## My Dev Activity [Interpreted by AI] for the last 30 days - Disclaimer: it can be really hilarious
 
-- CI/CD & Automation: Introduced default-linux-x64 to actionlint 🤖
-- Monitoring & Observability: Added alerts for pending jobs in arc runners 🚨
-- Coding & Dev Productivity: Updated prompt format and categories input 🛠️
-- Security & Access: Enhanced grouping security in prompts 🔒
+- **Infrastructure & Platform:** Upgraded runner set and controller to v0.12.0 🚀
+- **CI/CD & Automation:** Added auto-approval for PR to enable auto merge 🤖
+- **Monitoring & Observability:** Added alerts for pending jobs in arc runners 🚨
+- **Coding & Dev Productivity:** Updated prompt and style for enhanced user experience ✨
+- **Security & Access:** Enhanced security by making the grouping more secure 🔒
 
 ## 📊 Visualizations
 
@@ -27,6 +28,6 @@
 
 🚀 Thanks for reading! Connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-yau).
 ---
-*Generated on 2025-07-02 17:08 EDT by DevFolio GitHub Action*  
-*Analyzing commits from 2025-06-02 to 2025-07-02 (EDT)*
+*Generated on 2025-07-07 02:16 EDT by DevFolio GitHub Action*  
+*Analyzing commits from 2025-06-07 to 2025-07-07 (EDT)*
 ---
