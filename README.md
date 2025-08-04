@@ -2,11 +2,15 @@
 
 ## My Dev Activity [Interpreted by AI] for the last 30 days - Disclaimer: it can be really hilarious
 
-- **Infrastructure & Platform:** Upgraded runner image to ensure compatibility with environment setups 🏗️
-- **CI/CD & Automation:** Added alerts for pending jobs in arc runners 🚨
-- **Monitoring & Observability:** Enhanced request limit handling for controllers and listeners 📊
-- **Coding & Dev Productivity:** Integrated Google Maps search functionality in service profiles 🗺️
-- **Security & Access:** Added dummy data seeding and public endpoint for service profiles to enhance data security 🔒
+- **Infrastructure & Platform:** Created GitHub repository `teleport-deployments` for engineering platform Kubernetes services.
+  
+- **CI/CD & Automation:** Implemented Kubernetes runners for CI processes and added test automation for Kubernetes runners.
+
+- **Monitoring & Observability:** Adjusted resources for updater and agent in the `test-2` deployment, ensuring efficient monitoring.
+
+- **Coding & Dev Productivity:** Enhanced service profile management UI, improving user experience with better error handling and validation.
+
+- **Security & Access:** Updated permissions to allow runners in `eng-tools` to assume a Terraform test readonly role, enhancing security practices.
 
 ## 📊 Visualizations
 
@@ -28,6 +32,6 @@
 
 🚀 Thanks for reading! Connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-yau).
 ---
-*Generated on 2025-07-21 02:18 EDT by DevFolio GitHub Action*  
-*Analyzing commits from 2025-06-21 to 2025-07-21 (EDT)*
+*Generated on 2025-08-04 02:23 EDT by DevFolio GitHub Action*  
+*Analyzing commits from 2025-07-05 to 2025-08-04 (EDT)*
 ---
